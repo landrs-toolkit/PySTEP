@@ -1,4 +1,4 @@
-#PySTEP
+# PySTEP
 
 A python module for use in annotating data using the [STEP (Semantic Trajectory Episodes)](https://talespaiva.github.io/step/) ontology through the creation of RDF graphs.
 
